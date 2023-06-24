@@ -1,7 +1,7 @@
 ### Welcome 👋
 
-- Data Analyst
-- Self taught maths and programming and working on projects
+- Data Scientist/Analyst
+- Maths and programming
 - Big fan of AI breakthroughs made by DeepMind/OpenAI
 
 
