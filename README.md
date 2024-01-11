@@ -2,6 +2,6 @@
 
 - Data Scientist/Analyst
 - Maths and programming
-- Big fan of AI breakthroughs made by DeepMind/OpenAI
+- Tinkering // Researching Artificial Intelligence, specifically Mechanistic Interpretability of Transformer
 
 
